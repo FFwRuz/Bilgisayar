@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Janset , Taha & Enes\Bilgisayar\bin\Debug\Bilgisayar.exe.config
+C:\Users\Administrator\Desktop\Janset , Taha & Enes\Bilgisayar\bin\Debug\Bilgisayar.exe
+C:\Users\Administrator\Desktop\Janset , Taha & Enes\Bilgisayar\bin\Debug\Bilgisayar.pdb
+C:\Users\Administrator\Desktop\Janset , Taha & Enes\Bilgisayar\obj\Debug\Bilgisayar.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Janset , Taha & Enes\Bilgisayar\obj\Debug\Bilgisayar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Janset , Taha & Enes\Bilgisayar\obj\Debug\Bilgisayar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Janset , Taha & Enes\Bilgisayar\obj\Debug\Bilgisayar.exe
+C:\Users\Administrator\Desktop\Janset , Taha & Enes\Bilgisayar\obj\Debug\Bilgisayar.pdb
